@@ -1,4 +1,4 @@
-# Hello everyone, this is m third proyect done on the course of Juan Pablo De la torre Valdez !!!
+# Hello everyone, this is my third proyect done on the course of Juan Pablo De la torre Valdez !!!
 ## In this proyect, We have learned how to filter a search, higher order functions and functional programming in Java Script.
 ## I hope you like it and see you soon at next project.
 
